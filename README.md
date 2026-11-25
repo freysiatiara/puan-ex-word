@@ -2,9 +2,9 @@
 
 Entry for the make.fun bounty [Describe Your Ex in One Word](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7) — sum up an ex in exactly one word.
 
-https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7.svg
-https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/freysiatiara/puan-ex-word/rank.svg
-https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/freysiatiara/puan-ex-word/reward.svg
+[![Bounty](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![Rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/freysiatiara/puan-ex-word/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![Reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/freysiatiara/puan-ex-word/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
 
 ## The word
 
